@@ -8,6 +8,7 @@ This is the course project of CS6300 - Software Development Process in Georgia I
 2. Install the app_debug.app
 3. Run the App
 
+Environment requirement: Android 11.0 and above
 ## Snapshot
 
 Below are the different pages a user will be able to see while navigating through the application:
